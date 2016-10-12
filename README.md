@@ -14,7 +14,7 @@ Rotación, negativo, equalizar, espejos (vertical y horizontal), umbralización,
 
 Edita tus fotos BMP de forma fácil y divertida. 
 
-PD: quizas en imagenes muy grandes se tarde un poco, y faltan algunas bibliotecas que eran muy pesadas para subirlas.
+PD: quizas en imagenes muy grandes se tarde un poco, y para utilizar directamente el ejecutable hacen falta algunas bibliotecas que eran muy pesadas para subirlas.
 
 #Integrantes:
 Jean Garcia C.I 23.868.370
