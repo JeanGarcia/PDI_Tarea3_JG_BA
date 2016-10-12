@@ -13,7 +13,7 @@ Filtros:
 Rotación, negativo, equalizar, espejos (vertical y horizontal), umbralización, iluminación, contraste, escalamiento, undo/redo, entre otros.
 
 Edita tus fotos BMP de forma fácil y divertida. 
-
+PD: quizas en imagenes muy grandes se tarde un poco.
 
 #Integrantes:
 Jean Garcia C.I 23.868.370
